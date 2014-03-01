@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Java-Bean: True
+Name: ru/HSE/Trofimov/BeanClock/ClockBean.class
+Main-Class: ru.HSE.Trofimov.BeanClock.ClockFrame
+
